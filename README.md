@@ -2,6 +2,6 @@
 
 This is a sample readme file
 
-##Heading 2
+##Heading 
 
-I hope this isn't much of a problem
+Just something going on
